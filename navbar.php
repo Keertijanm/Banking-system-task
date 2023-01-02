@@ -117,7 +117,7 @@
           </g>
         </g>
       </svg>
-      <span class="title">Sparks Indian Bank</span>
+      <span class="title">Spark Demo Bank</span>
     </a>
 
     <!-- Toggler -->
