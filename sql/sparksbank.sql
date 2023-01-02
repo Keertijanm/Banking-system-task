@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 20, 2021 at 11:56 AM
+-- Generation Time: Jan 2, 2023 at 11:56 AM
 -- Server version: 10.4.17-MariaDB
 -- PHP Version: 8.0.2
 
@@ -40,13 +40,13 @@ CREATE TABLE `transactions` (
 --
 
 INSERT INTO `transactions` (`sr no.`, `sender`, `receiver`, `amount`, `date_time`) VALUES
-(1, 'Riya', 'Priya', 5000, '2021-07-18 18:08:40'),
-(2, 'Priya', 'Mitesh', 5000, '2021-07-18 18:09:31'),
-(3, 'Ronak', 'Ritesh', 5000, '2021-07-18 18:10:13'),
-(4, 'Mitesh', 'Bhumit', 2000, '2021-07-18 20:31:40'),
-(5, 'Riya', 'Bhumit', 700, '2021-07-18 23:06:24'),
-(6, 'Ronak', 'Priya', 500, '2021-07-18 23:06:41'),
-(7, 'Ritesh', 'Bhumit', 700, '2021-07-18 23:13:40');
+(1, 'Riya', 'Priya', 5000, '2023-01-04 18:08:40'),
+(2, 'Priya', 'Mitesh', 5000, '2023-01-04 18:09:31'),
+(3, 'Ronak', 'Ritesh', 5000, '2023-01-04 18:10:13'),
+(4, 'Mitesh', 'Bhumit', 2000, '2023-01-04 20:31:40'),
+(5, 'Riya', 'Bhumit', 700, '2023-01-04 23:06:24'),
+(6, 'Ronak', 'Priya', 500, '2023-01-04 23:06:41'),
+(7, 'Ritesh', 'Bhumit', 700, '2023-01-04 23:13:40');
 
 -- --------------------------------------------------------
 
