@@ -9,7 +9,7 @@ include 'config.php';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Sparks Indian Bank</title>
+  <title>Spark Demo Bank</title>
   <!--MY CSS-->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -37,7 +37,7 @@ include 'navbar.php';
 
           <!-- Heading -->
           <h1 class="display-3 text-center text-md-start">
-            Welcome to <span class="text-primary fw-bold">Sparks Indian Bank</span><br>
+            Welcome to <span class="text-primary fw-bold">Spark Demo Bank </span><br>
             Tranfer anywhere.
           </h1>
 
